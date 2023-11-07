@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cybower
 - 👀 I’m interested in Infrastructure as Code, eBPF, Cloud Computing, and Linux 
-- 🌱 I’m currently learning Linux Based Cyber Secuirty
+- 🌱 I’m currently learning Linux Based Cyber Security
 
 
 <!---
